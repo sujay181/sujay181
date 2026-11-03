@@ -23,12 +23,12 @@ flowchart LR
     S["Sources<br/>SQL Server · PostgreSQL<br/>Salesforce · CSV"] --> B["Bronze<br/>raw, replayable"]
     B --> SV["Silver<br/>typed, deduplicated,<br/>quality-checked"]
     SV --> G["Gold<br/>star schema & KPIs"]
-    G --> D["Power BI &<br/>AI/BI dashboards"]
+    G --> D["Dashboards<br/>Power BI · AI/BI"]
 ```
 
 ### Findings from my projects
 
-| | |
+| Finding | Project |
 |---|---|
 | **23%** of a $2M marketing budget misallocated by last-touch attribution | [mkt-intel](https://github.com/sujay181/mkt-intel) |
 | **−77%** profit margin on orders discounted above 40% | [superstore-sales-eda](https://github.com/sujay181/superstore-sales-eda) |
@@ -41,7 +41,7 @@ flowchart LR
 ![Power BI](https://img.shields.io/badge/Power%20BI%20%C2%B7%20DAX-F2C811?style=flat&logoColor=black)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt%20Core-FF694B?style=flat&logo=dbt&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
