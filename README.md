@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sujay-narayana-646b17213/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:sujaynarayana.181@gmail.com"><img src="https://img.shields.io/badge/Email-sujaynarayana.181%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sujaynarayana.181@gmail.com"><img src="https://img.shields.io/badge/Email-sujaynarayana.181%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://img.shields.io/badge/Location-Australia-2E7D32?style=flat" alt="Location: Australia">
 </p>
 
@@ -14,7 +14,7 @@ Data analyst and data engineer · Master of Data Science (Professional), Deakin 
 - 🏗️ Building **[LedgerLake](https://github.com/sujay181/ledgerlake)** in public: a metadata-driven Databricks lakehouse, one layer a day
 - 💬 Ask me about **medallion architecture, marketing attribution, DAX and Power BI, or why last-touch attribution lies**
 - 📄 Published: *Livenessnet with Hardware Interface for higher Security*, IJARCCE 2023 ([DOI](https://doi.org/10.17148/IJARCCE.2023.125118))
-- 📫 Reach me at **sujaynarayana.181@gmail.com**
+- 📫 Reach me at `sujaynarayana.181@gmail.com`
 
 ### How I build
 
